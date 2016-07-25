@@ -5,6 +5,7 @@ import (
 	"fmt"
 
 	"github.com/fatih/color"
+	"github.com/ilopshire/eulerGo/problem1"
 	"github.com/ilopshire/eulerGo/problem31"
 )
 
@@ -37,6 +38,8 @@ func main() {
 
 	} else {
 		switch problem {
+		case 1:
+			problem1.Solve()
 		case 31:
 			problem31.Solve()
 		default:
