@@ -13,6 +13,11 @@ go run main.go -problem=1 -visual
 ```
 
 ##Currently Completed Solutions
-| Problem | Visual |
-| :-----: |:------:|
-| [31 - Coin sums](https://projecteuler.net/problem=31) | yes |
+| # | Problem | Visual |
+| :--- | :------ | :----- |
+| 1 | [Multiples of 3 and 5](https://projecteuler.net/problem=1) | no |
+| 2 | [Even Fibonacci numbers](https://projecteuler.net/problem=2) | no |
+| 3 | [Largest prime factor](https://projecteuler.net/problem=3) | no |
+| 4 | [Largest palindrome product](https://projecteuler.net/problem=4) | no |
+| 5 | [Smallest multiple](https://projecteuler.net/problem=5) | no |
+| 6 | [Coin sums](https://projecteuler.net/problem=31) | yes |

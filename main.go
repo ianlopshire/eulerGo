@@ -10,6 +10,7 @@ import (
 	"github.com/ilopshire/eulerGo/problem3"
 	"github.com/ilopshire/eulerGo/problem31"
 	"github.com/ilopshire/eulerGo/problem4"
+	"github.com/ilopshire/eulerGo/problem5"
 )
 
 var problem int
@@ -49,6 +50,8 @@ func main() {
 			problem3.Solve()
 		case 4:
 			problem4.Solve()
+		case 5:
+			problem5.Solve()
 		case 31:
 			problem31.Solve()
 		default:
