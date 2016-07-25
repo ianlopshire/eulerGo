@@ -7,6 +7,7 @@ import (
 	"github.com/fatih/color"
 	"github.com/ilopshire/eulerGo/problem1"
 	"github.com/ilopshire/eulerGo/problem2"
+	"github.com/ilopshire/eulerGo/problem3"
 	"github.com/ilopshire/eulerGo/problem31"
 )
 
@@ -43,6 +44,8 @@ func main() {
 			problem1.Solve()
 		case 2:
 			problem2.Solve()
+		case 3:
+			problem3.Solve()
 		case 31:
 			problem31.Solve()
 		default:
